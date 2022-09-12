@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1021478543731",
+    "project_id": "gossip-chat-c4cab",
+    "storage_bucket": "gossip-chat-c4cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021478543731:android:26fa6d9966b9f597296506",
+        "android_client_info": {
+          "package_name": "com.vi.gossip.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021478543731-rc8qdlt5j16phrqdvgbfos8s0japq040.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoB3K2wXF51LQOe_D88jNOFFIj4cuAviE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021478543731-rc8qdlt5j16phrqdvgbfos8s0japq040.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021478543731:android:3db2c61dd41b0f82296506",
+        "android_client_info": {
+          "package_name": "gossip.vi.chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021478543731-sbeveief1mmf2qbud0hsnj1lrgb59g0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gossip.vi.chat.app",
+            "certificate_hash": "f2dc466ba0d75dec4cf2c413b1fde49f163154bf"
+          }
+        },
+        {
+          "client_id": "1021478543731-rc8qdlt5j16phrqdvgbfos8s0japq040.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoB3K2wXF51LQOe_D88jNOFFIj4cuAviE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021478543731-rc8qdlt5j16phrqdvgbfos8s0japq040.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
